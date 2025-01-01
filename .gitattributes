@@ -1,0 +1,7 @@
+"* text=auto" 
+# Forcer LF pour les fichiers YAML
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Forcer CRLF pour certains fichiers
+*.bat text eol=crlf

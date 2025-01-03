@@ -20,6 +20,7 @@ def get_all_books():
 
 
 def add_new_book():
+    
     request_data = request.get_json()
     try:
         jsonschema.validate(request_data, add_book_schema)

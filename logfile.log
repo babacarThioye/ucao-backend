@@ -1,0 +1,119 @@
+Niveau : DEBUG | Date : 2025-01-02 16:06:23,666 | Message : Starting flask HTTP server..
+Niveau : INFO | Date : 2025-01-02 16:06:23,709 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:06:26,922 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:06:27,013 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:06:27,034 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:06:27,149 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:06:42,242 | Message : 127.0.0.1 - - [02/Jan/2025 16:06:42] "[37mOPTIONS /users/v1/login HTTP/1.1[0m" 200 -
+Niveau : DEBUG | Date : 2025-01-02 16:06:42,256 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:06:42,258 | Message : http://localhost:5000/users/v1/login validating schema...
+Niveau : DEBUG | Date : 2025-01-02 16:06:42,258 | Message : Function Arguments: []
+Niveau : ALERT_CON | Date : 2025-01-02 16:06:42,314 | Message : Connexion réussi username admin
+Niveau : DEBUG | Date : 2025-01-02 16:06:42,314 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:06:42,314 | Message : Got framework response
+Niveau : INFO | Date : 2025-01-02 16:06:42,315 | Message : 127.0.0.1 - - [02/Jan/2025 16:06:42] "[37mPOST /users/v1/login HTTP/1.1[0m" 200 -
+Niveau : INFO | Date : 2025-01-02 16:07:07,634 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:07,637 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:07,920 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:07:12,058 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:07:12,077 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:07:12,083 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:07:12,118 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:07:41,364 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:41,367 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:41,581 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:41,584 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:41,825 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:41,826 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:42,447 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:07:45,082 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:07:45,104 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:07:45,114 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:07:45,164 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:07:52,914 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:52,917 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:07:53,340 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:07:57,736 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:07:57,755 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:07:57,761 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:07:57,811 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:08:08,234 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:08:08,236 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:08:08,238 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:08:09,606 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:08:17,523 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:08:17,550 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:08:17,561 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:08:17,638 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:08:26,284 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:08:26,286 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:08:26,778 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:08:28,631 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:08:28,646 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:08:28,651 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:08:28,681 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : DEBUG | Date : 2025-01-02 16:08:36,308 | Message : Starting flask HTTP server..
+Niveau : INFO | Date : 2025-01-02 16:08:36,345 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:08:38,115 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:08:38,142 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:08:38,148 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:08:38,188 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:08:43,221 | Message : 127.0.0.1 - - [02/Jan/2025 16:08:43] "[37mOPTIONS /users/v1/login HTTP/1.1[0m" 200 -
+Niveau : DEBUG | Date : 2025-01-02 16:08:43,228 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:08:43,230 | Message : http://localhost:5000/users/v1/login validating schema...
+Niveau : DEBUG | Date : 2025-01-02 16:08:43,230 | Message : Function Arguments: []
+Niveau : ALERT_CON | Date : 2025-01-02 16:08:43,292 | Message : Connexion réussi username admin
+Niveau : DEBUG | Date : 2025-01-02 16:08:43,292 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:08:43,293 | Message : Got framework response
+Niveau : INFO | Date : 2025-01-02 16:08:43,294 | Message : 127.0.0.1 - - [02/Jan/2025 16:08:43] "[37mPOST /users/v1/login HTTP/1.1[0m" 200 -
+Niveau : INFO | Date : 2025-01-02 16:09:13,797 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:09:13,797 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:09:13,800 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:09:14,545 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:09:31,940 | Message : Starting flask HTTP server..
+Niveau : INFO | Date : 2025-01-02 16:09:31,979 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:09:34,925 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:09:34,954 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:09:34,966 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:09:35,039 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:09:35,246 | Message : 127.0.0.1 - - [02/Jan/2025 16:09:35] "[37mOPTIONS /books/v1 HTTP/1.1[0m" 200 -
+Niveau : DEBUG | Date : 2025-01-02 16:09:35,480 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:09:35,480 | Message : Function Arguments: []
+Niveau : DEBUG | Date : 2025-01-02 16:09:35,530 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:09:35,531 | Message : Got framework response
+Niveau : INFO | Date : 2025-01-02 16:09:35,532 | Message : 127.0.0.1 - - [02/Jan/2025 16:09:35] "[37mGET /books/v1 HTTP/1.1[0m" 200 -
+Niveau : INFO | Date : 2025-01-02 16:09:54,291 | Message : 127.0.0.1 - - [02/Jan/2025 16:09:54] "[37mOPTIONS /users/v1/login HTTP/1.1[0m" 200 -
+Niveau : DEBUG | Date : 2025-01-02 16:09:54,293 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:09:54,294 | Message : http://localhost:5000/users/v1/login validating schema...
+Niveau : DEBUG | Date : 2025-01-02 16:09:54,294 | Message : Function Arguments: []
+Niveau : ALERT_CON | Date : 2025-01-02 16:09:54,298 | Message : Connexion rÃ©ussi username admin
+Niveau : DEBUG | Date : 2025-01-02 16:09:54,299 | Message : Getting data and status code
+Niveau : DEBUG | Date : 2025-01-02 16:09:54,299 | Message : Got framework response
+Niveau : INFO | Date : 2025-01-02 16:09:54,299 | Message : 127.0.0.1 - - [02/Jan/2025 16:09:54] "[37mPOST /users/v1/login HTTP/1.1[0m" 200 -
+Niveau : INFO | Date : 2025-01-02 16:10:20,747 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:20,748 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:20,749 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:21,517 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:10:23,457 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:10:23,473 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:10:23,479 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:10:23,507 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:10:23,561 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:23,563 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\api_views\\users.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:24,642 | Message :  * Restarting with windowsapi reloader
+Niveau : DEBUG | Date : 2025-01-02 16:10:29,112 | Message : Starting flask HTTP server..
+Niveau : WARNING | Date : 2025-01-02 16:10:29,130 | Message :  * Debugger is active!
+Niveau : INFO | Date : 2025-01-02 16:10:29,136 | Message :  * Debugger PIN: 599-692-013
+Niveau : INFO | Date : 2025-01-02 16:10:29,174 | Message :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+Niveau : INFO | Date : 2025-01-02 16:10:36,434 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:36,435 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:36,437 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:37,184 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:37,185 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:37,187 | Message :  * Detected change in 'C:\\Users\\thioy\\Desktop\\ucao-backend\\config.py', reloading
+Niveau : INFO | Date : 2025-01-02 16:10:37,316 | Message :  * Restarting with windowsapi reloader
+Niveau : INFO | Date : 2025-01-02 17:00:47,835 | Message :  * Restarting with windowsapi reloader
+Niveau : INFO | Date : 2025-01-02 17:04:52,267 | Message :  * Restarting with windowsapi reloader
+Niveau : INFO | Date : 2025-01-02 17:05:25,480 | Message :  * Restarting with windowsapi reloader
+Niveau : INFO | Date : 2025-01-02 17:05:30,770 | Message :  * Restarting with windowsapi reloader
+Niveau : INFO | Date : 2025-01-02 17:05:57,576 | Message :  * Restarting with windowsapi reloader

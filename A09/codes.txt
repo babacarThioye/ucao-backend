@@ -5,7 +5,8 @@ import logging
 # Deuxieme bout
 
 logging.addLevelName(25, 'ALERT_CON')
-logging.basicConfig(filename='logfile.log', level=logging.DEBUG, format=f'Niveau : %(levelname)s | Date : %(asctime)s | Message : %(message)s')
+logging.basicConfig(filename='logfile.log',encoding="utf8", level=logging.DEBUG, format=f'Niveau : %(levelname)s | Date : %(asctime)s | Message : %(message)s')
+
 
 # Last bout
 
